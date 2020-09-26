@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Grab Notes</string>
+    <string name="select_file">SELECT FILE</string>
+    <string name="no_file_is_selected">No file is selected</string>
+    <string name="upload">UPLOAD</string>
+    <string name="login_text">Sign In</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="activity_name">Upload File</string>
+    <string name="signOut">Sign Out</string>
+    <string name="create">New User? Create an Account</string>
+    <string name="fireBase_login_text">Log In</string>
+    <string name="title_activity_login2">Sign In</string>
+    <string name="fireBase_create_text">Sign Up</string>
+    <string name="signUp_text">Sign Up</string>
+    <string name="feedback">Send us Feedback</string>
+    <string name="log_out">Log Out</string>
+    <string name="fetch">Grab Notes</string>
+    <string name="textView">TextView</string>
+    <string name="file_name_to_display">Enter File Name to Save</string>
+    <string name="todo">TODO</string>
+    <string name="description">Thank You for downloading this app. This app will help you in getting all your notes easily on time. Click on Grab Notes Button to access your notes.
+        \n\nNote: Make sure you have a pdf reader to access the notes easily.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="user_name">User Name</string>
+</resources>
